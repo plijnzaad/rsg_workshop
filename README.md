@@ -5,3 +5,4 @@ Planning and web page for RSG workshop
 * python code
 * etc.
  
+Mmm ... brougth to you by Sander Canisius, Mateusz Kuzak, Philip Lijnzaad and Joep de Ligt
