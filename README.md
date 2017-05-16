@@ -5,3 +5,6 @@ Planning and web page for RSG workshop
 * python code
 * etc.
  
+ This workshop was brought to you by Sander Canisius, Mateusz Kuzak, Philip Lijnzaad and Joep de Ligt!
+ 
+ 
